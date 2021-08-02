@@ -1,4 +1,3 @@
-<br/>
 <h3 align='center'><samp><strong>Hi, I'm Park Ha</strong> ✨ </samp></h3> 
 <!-- <p align='center'> <samp> Java | Java Script | Python </samp></p> -->
 <br/>
